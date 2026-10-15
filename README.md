@@ -14,7 +14,7 @@ The **Mad Scientist Armature** is a modular, interactive Halloween decoration de
 
 The system combines animated eyes, illuminated gauges, sound effects, and decorative lighting into a single weatherproof structure that responds to visitors.
 
-This project owes **huge** thanks to [https://github.com/adafruit](Adafruit for Uncanny Eyes), to [https://github.com/bodmer](Bodmer for porting to TFT_eSPI), and to [https://github.com/thelastoutpostworkshop](The Last Outpost Workshop)
+This project owes **huge** thanks to [Adafruit for Uncanny Eyes](https://github.com/adafruit), to [Bodmer for porting to TFT_eSPI](https://github.com/bodmer), and to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop)
 
 ### Design Goals
 
