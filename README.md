@@ -6,7 +6,7 @@
 
 <img width="1280" height="640" alt="armature-small" src="https://github.com/user-attachments/assets/2ea0beb9-b357-46af-9ccb-c0958a87cbf7" />
 
-
+Watch the YouTube Video here: [https://www.youtube.com/watch?v=LL1f9C8RyxI](https://www.youtube.com/watch?v=LL1f9C8RyxI)
 
 ## 1. Project Overview
 
