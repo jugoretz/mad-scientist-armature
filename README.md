@@ -4,7 +4,7 @@
 
 ---
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg)](https://www.youtube.com/watch?v=YLL1f9C8RyxI)
+[![YouTube Video](https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg)](https://www.youtube.com/watch?v=YLL1f9C8RyxI)
 
 
 
