@@ -1,6 +1,3 @@
-[Mad-Scientist-Armature-Hardware-Overview.md](https://github.com/user-attachments/files/33507738/Mad-Scientist-Armature-Hardware-Overview.md)
-# mad-scientist-armature
-A Halloween display project
 # Mad Scientist Armature
 ### Hardware Overview & System Architecture
 **Version: October 2026**
