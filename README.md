@@ -4,7 +4,7 @@
 
 ---
 
-[![YouTube Video](https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg)](https://www.youtube.com/watch?v=YLL1f9C8RyxI)
+<img width="1280" height="640" alt="armature-small" src="https://github.com/user-attachments/assets/2ea0beb9-b357-46af-9ccb-c0958a87cbf7" />
 
 
 
