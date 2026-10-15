@@ -4,7 +4,9 @@
 
 ---
 
-[![Watch the video]([https://img.youtube.com/vi/LL1f9C8RyxI?si=MbjTOBUTUaKFjHTk/maxresdefault.jpg](https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg))](https://youtu.be/LL1f9C8RyxI?si=MbjTOBUTUaKFjHTk)
+[![Watch the video]([https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg
+
+](https://img.youtube.com/vi/LL1f9C8RyxI/0.jpg))](https://youtu.be/LL1f9C8RyxI?si=MbjTOBUTUaKFjHTk)
 
 ## 1. Project Overview
 
