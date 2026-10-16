@@ -8,6 +8,8 @@
 
 Watch the YouTube Video here: [https://www.youtube.com/watch?v=LL1f9C8RyxI](https://www.youtube.com/watch?v=LL1f9C8RyxI)
 
+If you'd like to, you can support the project by buying me a coffee [https://buymeacoffee.com/jugoretz](https://buymeacoffee.com/jugoretz)
+
 ## 1. Project Overview
 
 The **Mad Scientist Armature** is a modular, interactive Halloween decoration designed to operate outdoors throughout the month of October.
