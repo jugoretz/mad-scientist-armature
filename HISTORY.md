@@ -11,15 +11,14 @@ In 2015, **Phillip Burgess** (*Paint Your Dragon*) at **Adafruit** published
 [Animated Electronic Eyes](https://learn.adafruit.com/animated-electronic-eyes-using-teensy-3-1/overview)
 and the accompanying [Uncanny Eyes source code](https://github.com/adafruit/Uncanny_Eyes).
 The original implementation targeted the **Teensy 3.1**, with two small OLED
-or TFT screens—not initially a Feather. It animated gaze, blinking, eyelids,
+or TFT screens. It animated gaze, blinking, eyelids,
 and iris size, using precomputed eye-image data in C header files. Adafruit
 also supplied a [graphics conversion tool](https://github.com/adafruit/Uncanny_Eyes/tree/master/convert)
 for creating additional eyes.
 
 Burgess credited **David Boccabella (Marcwolf)** for inspiring the concept
 through earlier servo/OLED animatronic-eye experiments, and **Paul Stoffregen**
-for SPI FIFO insights. These are part of the project's history, not necessarily
-independent authors of our current sketch.
+for SPI FIFO insights. These are part of the project's history.
 
 ## After 2015: more Adafruit boards and displays
 
@@ -27,23 +26,20 @@ The original code subsequently supported Adafruit M0 and M4 hardware as well
 as Teensy. Adafruit's later Halloween eye projects—including the Hallowing
 family and Monster M4SK—extended the idea to different processors and
 higher-resolution screens. The [M4_Eyes example](https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/main/M4_Eyes)
-is an important parallel branch of the family, **not a demonstrated direct
-ancestor of our sketch**.
+is an important parallel branch of the family that this project lives within.
 
 ## Bodmer: the TFT_eSPI branch
 
-**Bodmer** developed the widely used
+**Bodmer** developed the widely used (by me, in many other projects) 
 [TFT_eSPI library](https://github.com/Bodmer/TFT_eSPI), and adapted Uncanny
 Eyes to work with it on ESP8266, ESP32, and other supported hardware. The
 library's [Animated_Eyes examples](https://github.com/Bodmer/TFT_eSPI/tree/master/examples/Generic)
 made the animation more accessible on inexpensive development boards.
 
 There are several examples, including an ESP8266/NodeMCU-oriented version.
-Our sketch's opening comment explicitly identifies
+My sketch explicitly identifies
 [Animated_Eyes_1](https://github.com/Bodmer/TFT_eSPI/blob/master/examples/Generic/Animated_Eyes_1/Animated_Eyes_1.ino)
-as its major starting point. This is much stronger evidence than guessing from
-the board or display type. The date of Bodmer's first eye adaptation has not
-been established here from commit history.
+as its major starting point. 
 
 ## 2023: Florian Sternke and round displays
 
@@ -53,18 +49,16 @@ a project with two round **240 × 240 GC9A01** TFTs and a moving skull jaw.
 His work is especially relevant to the display format used here and includes
 large-format eye graphics. The repository dates to at least 2023.
 
-We used or consulted Sternke's large-eye work when building the Halloween
-goggles, including `default_large.h`. This does **not** mean that the entire
-present sketch is a fork of his skull project: our own source identifies
-Bodmer's `Animated_Eyes_1` as its principal code base. The precise provenance
+I used or consulted Sternke's large-eye work when building the (2025) Halloween
+goggles project, including `default_large.h`. I found many other eye designs, and converted some.  Exact provenance
 of every large eye design remains to be checked.
 
 ## 2025: Halloween goggles
 
-Our 2025 goggles used an **ESP32-S3** and two **240 × 240 round GC9A01**
+My 2025 goggles used an **ESP32-S3** and two **240 × 240 round GC9A01**
 displays. Getting the hardware, TFT_eSPI configuration, chip-select behavior,
 display rotations, and appropriately sized graphics to work together took
-some experimentation. The result provided a working basis for later projects.
+some experimentation. The result provided a working basis for this and later projects.
 
 ## 2026: the Mad Scientist Armature
 
