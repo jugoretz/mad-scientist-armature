@@ -19,8 +19,6 @@ The **Mad Scientist Armature** is a modular, interactive Halloween decoration de
 
 The system combines animated eyes, illuminated gauges, sound effects, and decorative lighting into a single weatherproof structure that responds to visitors.
 
-This project owes **huge** thanks to [Adafruit for Uncanny Eyes](https://github.com/adafruit), to [Bodmer for porting to TFT_eSPI](https://github.com/bodmer), and to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop)
-
 ### Design Goals
 
 - **Weatherproof:** Designed for continuous outdoor operation throughout October.
@@ -603,3 +601,22 @@ This architecture offers several advantages:
 - **Reliability:** A software failure in one functional module does not inherently prevent the others from operating.
 
 The result is a flexible platform for outdoor Halloween effects, combining a distinctive industrial aesthetic with independently controlled lighting, animation, and sound.
+
+## Credits, History, and Licensing
+
+The Mad Scientist Armature is built on the work of many talented people in the open-source hardware and software community.
+
+In particular, the animated eye modules are descendants of **Uncanny Eyes**, originally created by [Phillip Burgess (Paint Your Dragon) at Adafruit](https://github.com/adafruit/Uncanny_Eyes), subsequently adapted for ESP8266 and ESP32 hardware by [Bodmer](https://github.com/Bodmer/TFT_eSPI), with additional contributions to 240 × 240 round-display implementations by [Florian Sternke (dalori)](https://github.com/dalori/ESP32-uncanny-eyes-halloween-skull).
+
+
+This project also owes **huge** thanks to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop).
+
+The project has evolved through several generations of hardware, software, and eye graphics. I've documented that history, including links to the original projects and their developers, in [HISTORY.md](HISTORY.md).
+
+### Licensing
+
+My original code and modifications are shared under the [MIT License](LICENSE). You're welcome to use, modify, and build upon them, including for your own Halloween creations.
+
+The project also incorporates third-party software and graphics, which retain their respective copyrights and licensing terms. See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for details.
+
+I'm grateful to the developers and makers who have shared their work so generously. This project wouldn't exist without them.
