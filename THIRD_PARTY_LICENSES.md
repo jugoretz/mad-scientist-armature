@@ -1,7 +1,7 @@
 # Third-party code, graphics, and acknowledgments
 
 The Mad Scientist Armature is built on the work of other open-source makers.
-The repository's root [MIT license](LICENSE) covers Joseph Ugoretz's original
+The repository's root [MIT license](LICENSE) covers my (Joseph Ugoretz's) original
 contributions, **not an automatic relicensing of third-party material**.
 Existing copyright, attribution, and license notices in source files should
 be retained.
@@ -16,7 +16,7 @@ be retained.
 - Licensing: the source identifies the work as MIT-licensed. Preserve its
   existing attribution and license notices. The standard MIT license text
   appears in the repository's root `LICENSE`, but its copyright line covers
-  Joseph's contributions only; original Adafruit notices remain applicable.
+  my contributions only; original Adafruit notices remain applicable.
 
 The original source credits **Paul Stoffregen** for SPI FIFO insight and
 **David Boccabella (Marcwolf)** for the inspiring servo/OLED eye concept.
