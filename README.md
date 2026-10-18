@@ -24,7 +24,7 @@ The Mad Scientist Armature is built on the work of many talented people in the o
 
 In particular, the animated eye modules are descendants of **Uncanny Eyes**, originally created by [Phillip Burgess (Paint Your Dragon) at Adafruit](https://github.com/adafruit/Uncanny_Eyes), subsequently adapted for ESP8266 and ESP32 hardware by [Bodmer](https://github.com/Bodmer/TFT_eSPI), with additional contributions to 240 × 240 round-display implementations by [Florian Sternke (dalori)](https://github.com/dalori/ESP32-uncanny-eyes-halloween-skull).
 
-This project also owes **huge** thanks to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop).
+This project also owes thanks to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop).
 
 The project has evolved through several generations of hardware, software, and eye graphics. I've documented that history, including links to the original projects and their developers, in [HISTORY.md](HISTORY.md).
 
