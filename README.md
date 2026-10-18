@@ -19,6 +19,16 @@ The **Mad Scientist Armature** is a modular, interactive Halloween decoration de
 
 The system combines animated eyes, illuminated gauges, sound effects, and decorative lighting into a single weatherproof structure that responds to visitors.
 
+## Credits and History
+
+The Mad Scientist Armature is built on the work of many talented people in the open-source hardware and software community.
+
+In particular, the animated eye modules are descendants of **Uncanny Eyes**, originally created by [Phillip Burgess (Paint Your Dragon) at Adafruit](https://github.com/adafruit/Uncanny_Eyes), subsequently adapted for ESP8266 and ESP32 hardware by [Bodmer](https://github.com/Bodmer/TFT_eSPI), with additional contributions to 240 × 240 round-display implementations by [Florian Sternke (dalori)](https://github.com/dalori/ESP32-uncanny-eyes-halloween-skull).
+
+This project also owes **huge** thanks to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop).
+
+The project has evolved through several generations of hardware, software, and eye graphics. I've documented that history, including links to the original projects and their developers, in [HISTORY.md](HISTORY.md).
+
 ### Design Goals
 
 - **Weatherproof:** Designed for continuous outdoor operation throughout October.
@@ -601,17 +611,6 @@ This architecture offers several advantages:
 - **Reliability:** A software failure in one functional module does not inherently prevent the others from operating.
 
 The result is a flexible platform for outdoor Halloween effects, combining a distinctive industrial aesthetic with independently controlled lighting, animation, and sound.
-
-## Credits, History, and Licensing
-
-The Mad Scientist Armature is built on the work of many talented people in the open-source hardware and software community.
-
-In particular, the animated eye modules are descendants of **Uncanny Eyes**, originally created by [Phillip Burgess (Paint Your Dragon) at Adafruit](https://github.com/adafruit/Uncanny_Eyes), subsequently adapted for ESP8266 and ESP32 hardware by [Bodmer](https://github.com/Bodmer/TFT_eSPI), with additional contributions to 240 × 240 round-display implementations by [Florian Sternke (dalori)](https://github.com/dalori/ESP32-uncanny-eyes-halloween-skull).
-
-
-This project also owes **huge** thanks to [The Last Outpost Workshop](https://github.com/thelastoutpostworkshop).
-
-The project has evolved through several generations of hardware, software, and eye graphics. I've documented that history, including links to the original projects and their developers, in [HISTORY.md](HISTORY.md).
 
 ### Licensing
 
