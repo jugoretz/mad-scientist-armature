@@ -3,9 +3,9 @@
 **Version: October 2026**
 
 ---
-If you have comments, I would love to hear them! 
+**If you have comments, I would love to hear them!**
 
-You can comment on the YouTube video (link below). 
+**You can comment on the YouTube video (link below).**
 
 <img width="1280" height="640" alt="armature-small" src="https://github.com/user-attachments/assets/2ea0beb9-b357-46af-9ccb-c0958a87cbf7" />
 
