@@ -3,7 +3,7 @@
 The animated eyes in the Mad Scientist Armature are part of a long-running
 open-source collaboration. The software did not originate with this project:
 it passed through several generations of microcontrollers, display drivers,
-and Halloween experiments before arriving on our ESP32-S3 and round displays.
+and Halloween experiments before arriving on my ESP32-S3 and round displays.
 
 ## 2015: Phil Burgess makes electronic eyes uncanny
 
